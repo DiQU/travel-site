@@ -1,1 +1,2 @@
 change and staged b2 again
+b3 edit
